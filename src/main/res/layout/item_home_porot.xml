@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.drawee.view.SimpleDraweeView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawee_home_porpt"
+    android:layout_width="70dp"
+    android:layout_height="70dp"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    fresco:roundAsCircle="true"
+    fresco:roundedCornerRadius="80dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp">
+
+</com.facebook.drawee.view.SimpleDraweeView>
